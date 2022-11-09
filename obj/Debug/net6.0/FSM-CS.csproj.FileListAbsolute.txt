@@ -1,0 +1,15 @@
+/Users/sj/Code/FSM-CS/bin/Debug/net6.0/FSM-CS
+/Users/sj/Code/FSM-CS/bin/Debug/net6.0/FSM-CS.deps.json
+/Users/sj/Code/FSM-CS/bin/Debug/net6.0/FSM-CS.runtimeconfig.json
+/Users/sj/Code/FSM-CS/bin/Debug/net6.0/FSM-CS.dll
+/Users/sj/Code/FSM-CS/bin/Debug/net6.0/FSM-CS.pdb
+/Users/sj/Code/FSM-CS/obj/Debug/net6.0/FSM-CS.csproj.AssemblyReference.cache
+/Users/sj/Code/FSM-CS/obj/Debug/net6.0/FSM-CS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sj/Code/FSM-CS/obj/Debug/net6.0/FSM-CS.AssemblyInfoInputs.cache
+/Users/sj/Code/FSM-CS/obj/Debug/net6.0/FSM-CS.AssemblyInfo.cs
+/Users/sj/Code/FSM-CS/obj/Debug/net6.0/FSM-CS.csproj.CoreCompileInputs.cache
+/Users/sj/Code/FSM-CS/obj/Debug/net6.0/FSM-CS.dll
+/Users/sj/Code/FSM-CS/obj/Debug/net6.0/refint/FSM-CS.dll
+/Users/sj/Code/FSM-CS/obj/Debug/net6.0/FSM-CS.pdb
+/Users/sj/Code/FSM-CS/obj/Debug/net6.0/FSM-CS.genruntimeconfig.cache
+/Users/sj/Code/FSM-CS/obj/Debug/net6.0/ref/FSM-CS.dll
